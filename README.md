@@ -1,4 +1,7 @@
-## 👩‍💻 Kshamya Amin  
+![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)  ![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)  
+ 
+# 👩‍💻 Kshamya Amin  
 
 🌱 *Building thoughtful software with a learner’s mindset*  
 
@@ -6,14 +9,14 @@
 
 ---
 
-### 📚 Education  
+## 📚 Education  
 - 🎓 **MCA (2024–Present)** — St. Agnes Centre for Post Graduate Studies and Research, Mangaluru  
 - 🎓 **B.Sc. Computer Science (2022–2024)** — University College Mangalore  
 - 🏫 **Schooling** — Shree Narayana Guru English Medium School, Mulky  
 
 ---
 
-### 🛠️ Skills  
+## 🛠️ Skills  
 - 💻 Programming: **C, C++, Java, Python**  
 - 🌐 Web Development: **HTML, CSS, JavaScript**  
 - 🗄️ Databases: **SQL, MySQL**  
@@ -21,7 +24,7 @@
 
 ---
 
-### 🚀 Projects  
+## 🚀 Projects  
 - 🌐 **Responsive Landing Page** — Drift Cafe landing page using HTML & CSS  
 - ⏱️ **Stopwatch Web App** — JavaScript-based stopwatch with smooth UX  
 - 🎮 **Tic-Tac-Toe Game** — Two-player game with responsive UI & accessibility  
@@ -30,6 +33,10 @@
 
 ---
 
-### 💼 Experience  
+## 💼 Experience  
 - 🌟 **Web Development Intern @ Prodigy InfoTech (Aug 2025)**  
   - Completed a 1‑month internship with outstanding performance and received formal recommendation  
+
+---
+
+## 🏢 OASIS INFOBYTE — Task List (Web Development & Designing)  
