@@ -7,8 +7,6 @@
 
 🎓 MCA student at **St. Agnes Centre for Post Graduate Studies and Research, Mangaluru** with a **B.Sc. in Computer Science** from University College Mangalore. Passionate about **full‑stack development**, **data‑driven solutions**, and turning ideas into usable products.  
 
----
-
 ## 📚 Education  
 - 🎓 **MCA (2024–Present)** — St. Agnes Centre for Post Graduate Studies and Research, Mangaluru  
 - 🎓 **B.Sc. Computer Science (2022–2024)** — University College Mangalore  
